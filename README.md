@@ -9,9 +9,30 @@ Our application uses an advanced machine learning model to analyze your body pos
 - **AI-Powered**: Uses a YOLOv5 machine learning model running on a lightning-fast FastAPI backend.
 - **Interactive UI**: A beautiful, modern, and responsive frontend built with React and Vite.
 
-## 👨‍💻 Developer
-**Dhruv Ghugal**
+## 👨‍💻 Team Members
+This Mega-Project was collaboratively built by:
+- **Ayush Mahalley**
+- **Dhruv Ghugal**
+- **Pranav Kaware**
+- **Poonam Hajare**
+- **Vaishnavi Chandore**
+
 - **Repository**: [Mega-Project-PosturePal-](https://github.com/DhruvGhugal/Mega-Project-PosturePal-)
+
+---
+
+## 🎯 Project Motivation
+In today's digital age, prolonged sitting and poor posture lead to severe back pain and long-term health issues. We built this **Mega-Project** to provide an accessible, AI-driven solution that helps people consciously improve their posture using nothing more than a standard webcam.
+
+## 🛠️ Tech Stack
+* **Frontend:** React, Vite, TailwindCSS (or Vanilla CSS)
+* **Backend:** Python, FastAPI
+* **AI/Machine Learning:** PyTorch, YOLOv5
+* **Database/Auth:** Firebase
+
+## 📸 Screenshots
+*(Add your screenshots here! Example below)*
+<!-- ![Dashboard View](./client/public/dashboard-screenshot.png) -->
 
 ---
 
