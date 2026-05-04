@@ -4,6 +4,17 @@ Welcome to **Posture Pal**! This is a real-time posture tracking web application
 
 Our application uses an advanced machine learning model to analyze your body posture in real-time, providing immediate visual feedback directly through your browser.
 
+## ✨ Features
+- **Real-Time Feedback**: Get instant visual feedback on your posture using your webcam.
+- **AI-Powered**: Uses a YOLOv5 machine learning model running on a lightning-fast FastAPI backend.
+- **Interactive UI**: A beautiful, modern, and responsive frontend built with React and Vite.
+
+## 👨‍💻 Developer
+**Dhruv Ghugal**
+- **Repository**: [Mega-Project-PosturePal-](https://github.com/DhruvGhugal/Mega-Project-PosturePal-)
+
+---
+
 ## 🏗️ Project Structure
 
 The project is divided into two main parts—the frontend interface and the backend AI server.
