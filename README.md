@@ -4,35 +4,21 @@ Welcome to **Posture Pal**! This is a real-time posture tracking web application
 
 Our application uses an advanced machine learning model to analyze your body posture in real-time, providing immediate visual feedback directly through your browser.
 
-## ✨ Features
-- **Real-Time Feedback**: Get instant visual feedback on your posture using your webcam.
-- **AI-Powered**: Uses a YOLOv5 machine learning model running on a lightning-fast FastAPI backend.
-- **Interactive UI**: A beautiful, modern, and responsive frontend built with React and Vite.
-
-## 👨‍💻 Team Members
-This Mega-Project was collaboratively built by:
-- **Ayush Mahalley**
-- **Dhruv Ghugal**
-- **Pranav Kaware**
-- **Poonam Hajare**
-- **Vaishnavi Chandore**
-
-- **Repository**: [Mega-Project-PosturePal-](https://github.com/DhruvGhugal/Mega-Project-PosturePal-)
-
 ---
 
 ## 🎯 Project Motivation
 In today's digital age, prolonged sitting and poor posture lead to severe back pain and long-term health issues. We built this **Mega-Project** to provide an accessible, AI-driven solution that helps people consciously improve their posture using nothing more than a standard webcam.
+
+## ✨ Features
+- **Real-Time Feedback**: Get instant visual feedback on your posture using your webcam.
+- **AI-Powered**: Uses a YOLOv5 machine learning model running on a lightning-fast FastAPI backend.
+- **Interactive UI**: A beautiful, modern, and responsive frontend built with React and Vite.
 
 ## 🛠️ Tech Stack
 * **Frontend:** React, Vite, TailwindCSS (or Vanilla CSS)
 * **Backend:** Python, FastAPI
 * **AI/Machine Learning:** PyTorch, YOLOv5
 * **Database/Auth:** Firebase
-
-## 📸 Screenshots
-*(Add your screenshots here! Example below)*
-<!-- ![Dashboard View](./client/public/dashboard-screenshot.png) -->
 
 ---
 
@@ -63,8 +49,16 @@ We have made running the project as incredibly easy as possible! You do not need
 3. It will launch two separate windows: one for the backend server and one for the frontend server.
 4. Your browser will automatically open to `http://localhost:5173` where you can use Posture Pal!
 
+> **Note:** The heavy dependency folders (`node_modules` and `venv`) are intentionally ignored by Git so that this repository stays incredibly fast and lightweight. Do not delete the `.pt` files in the server folder, as those are the core AI models used for posture detection.
+
 ---
 
-## 💡 Notes
-* The heavy dependency folders (`node_modules` and `venv`) are intentionally ignored by Git so that this repository stays incredibly fast and lightweight.
-* Do not delete the `.pt` files in the server folder, as those are the core AI models used for posture detection.
+## 👨‍💻 Team Members
+This Mega-Project was collaboratively built by:
+- **Ayush Mahalley**
+- **Dhruv Ghugal**
+- **Pranav Kaware**
+- **Poonam Hajare**
+- **Vaishnavi Chandore**
+
+**Repository**: [Mega-Project-PosturePal-](https://github.com/DhruvGhugal/Mega-Project-PosturePal-)
